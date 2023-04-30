@@ -4,9 +4,9 @@ Hi 👋 My name is Artiom
 Node.js backend developer
 -------------------------
 
-I've been working on BMS and AV automation in the past, but life goes on, and now i'm into backend. I'm in love with typescript as it delivers typed language benefits, but still uses high-level js concepts.
+I've been working on BMS and AV automation in the past, but life goes on, and now i'm into backend. I'm in love with typescript as it delivers typed language benefits, but still uses convenient high-level js concepts.
 
-* 🚀  I'm currently working on [Blog app on Nestjs](http://github.com/Artiom-Karimov/bloggers-api-nest)
+* 🚀  I'm currently working on [Personal money tracking service](http://github.com/Artiom-Karimov/mamani)
 
 ### Skills
 
