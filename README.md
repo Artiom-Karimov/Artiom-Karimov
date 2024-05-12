@@ -4,14 +4,6 @@ Hi 👋 My name is Artiom
 Node.js backend developer
 -------------------------
 
-I've been working on BMS and AV automation in the past, but life goes on, and now i'm into backend. 
-I'm in love with typescript as it delivers typed language benefits, but still uses convenient high-level js/async concepts.
-
-Currently I am working as a backend developer for a product company that produces industrial IoT.
-My stack is based on Nestjs and Redis, also we use NATS as a core message broker to communicate with another services (mostly golang).
-
-I am a huge fan of OOP-way of writing code. It seems to me that object-based paradigm fits the most to our thinking mechanism.
-
 ### Skills
 
 <p align="left">
